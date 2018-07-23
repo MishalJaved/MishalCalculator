@@ -1,0 +1,7 @@
+c:\users\mishaleman\documents\visual studio 2010\Projects\CAlculAtor\CAlculAtor\bin\Debug\CAlculAtor.exe
+c:\users\mishaleman\documents\visual studio 2010\Projects\CAlculAtor\CAlculAtor\bin\Debug\CAlculAtor.pdb
+c:\users\mishaleman\documents\visual studio 2010\Projects\CAlculAtor\CAlculAtor\obj\x86\Debug\CAlculAtor.Form1.resources
+c:\users\mishaleman\documents\visual studio 2010\Projects\CAlculAtor\CAlculAtor\obj\x86\Debug\CAlculAtor.Properties.Resources.resources
+c:\users\mishaleman\documents\visual studio 2010\Projects\CAlculAtor\CAlculAtor\obj\x86\Debug\CAlculAtor.csproj.GenerateResource.Cache
+c:\users\mishaleman\documents\visual studio 2010\Projects\CAlculAtor\CAlculAtor\obj\x86\Debug\CAlculAtor.exe
+c:\users\mishaleman\documents\visual studio 2010\Projects\CAlculAtor\CAlculAtor\obj\x86\Debug\CAlculAtor.pdb
